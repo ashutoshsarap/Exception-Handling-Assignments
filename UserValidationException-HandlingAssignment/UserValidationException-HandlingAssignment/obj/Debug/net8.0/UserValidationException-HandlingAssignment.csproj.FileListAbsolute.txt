@@ -1,0 +1,14 @@
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\bin\Debug\net8.0\UserValidationException-HandlingAssignment.exe
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\bin\Debug\net8.0\UserValidationException-HandlingAssignment.deps.json
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\bin\Debug\net8.0\UserValidationException-HandlingAssignment.runtimeconfig.json
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\bin\Debug\net8.0\UserValidationException-HandlingAssignment.dll
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\bin\Debug\net8.0\UserValidationException-HandlingAssignment.pdb
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\obj\Debug\net8.0\UserValidationException-HandlingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\obj\Debug\net8.0\UserValidationException-HandlingAssignment.AssemblyInfoInputs.cache
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\obj\Debug\net8.0\UserValidationException-HandlingAssignment.AssemblyInfo.cs
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\obj\Debug\net8.0\UserValidationException-HandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\obj\Debug\net8.0\UserValidationException-HandlingAssignment.dll
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\obj\Debug\net8.0\refint\UserValidationException-HandlingAssignment.dll
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\obj\Debug\net8.0\UserValidationException-HandlingAssignment.pdb
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\obj\Debug\net8.0\UserValidationException-HandlingAssignment.genruntimeconfig.cache
+C:\Users\Coditas-Admin\source\C#_Assignments\UserValidationException-HandlingAssignment\UserValidationException-HandlingAssignment\obj\Debug\net8.0\ref\UserValidationException-HandlingAssignment.dll
